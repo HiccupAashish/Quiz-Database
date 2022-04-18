@@ -21,7 +21,37 @@
                             "Redfern",
                             "Bryan street"
                          ]
-        }
+        },
+         {
+      "id": 1,
+      "question": "Where do i study?",
+      "correct_answer": "Academy XI",
+    "incorrect_answers": [
+                          "VIT",
+                          "CCRC",
+                          "Mother Teresa"
+                           ]
+     },
+         {
+      "id": 1,
+      "question": "What is my tutor name ?",
+      "correct_answer": "Albert Palada",
+    "incorrect_answers": [
+                          "Sanjeev Yadav",
+                          "Udemy",
+                          "Ajay"
+                           ]
+     },
+         {
+      "id": 1,
+      "question": "What is my DOB ?",
+      "correct_answer": "15/12/1997",
+    "incorrect_answers": [
+                          "10/12/1997",
+                          "20/12/1998",
+                          "12/10/1997"
+                           ]
+     }
   ]
 }
 
