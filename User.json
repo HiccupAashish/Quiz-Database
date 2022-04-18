@@ -7,21 +7,21 @@
       "question": "What is my full name ?",
       "correct_answer": "Aashish shah",
     "incorrect_answers": [
-"Hard Disk Drive",
-"Central Processing Unit",
-"Graphics Processing Unit"
-]
-    },
+                          "Hard Disk Drive",
+                          "Central Processing Unit",
+                          "Graphics Processing Unit"
+                           ]
+     },
          {
       "id": 2,
       "question": "What is address ?",
       "correct_answer": "Keats Avenue",
     "incorrect_answers": [
-"George Street",
-"Redfern",
-"Bryan street"
-]
-    }
+                            "George Street",
+                            "Redfern",
+                            "Bryan street"
+                         ]
+        }
   ]
 }
 
