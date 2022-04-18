@@ -1,9 +1,10 @@
 {
-  "User": [
+  "results": [
     {
       "id": 1,
-      "name": "Aashish shah",
-      "score": "5"
+      "question": "What is my full name ?",
+      "correct_answer": "Aashish shah",
+      "incorrect_answers":['Hiccup Aashish','Aashish yadav','Sanjeev Yadav']
     }
   ]
  
